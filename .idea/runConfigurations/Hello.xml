@@ -1,0 +1,13 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Hello" type="K2JSConfigurationType" factoryName="Kotlin (JavaScript)">
+    <K2JSConfigurationSettings>
+      <option name="browserFamily" value="CHROME" />
+      <option name="generatedFilePath" value="$PROJECT_DIR$/deploy" />
+      <option name="pageToOpenFilePath" value="$PROJECT_DIR$/deploy/hello.html" />
+      <option name="shouldOpenInBrowserAfterTranslation" value="true" />
+    </K2JSConfigurationSettings>
+    <RunnerSettings RunnerId="K2JSBrowserRunner" />
+    <ConfigurationWrapper RunnerId="K2JSBrowserRunner" />
+    <method />
+  </configuration>
+</component>
